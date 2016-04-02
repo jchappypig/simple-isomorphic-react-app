@@ -1,0 +1,27 @@
+{
+  "name": "simple-isomorphic-react-app",
+  "version": "1.0.0",
+  "description": "A simple isomorphic app using redux react node",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jchappypig/simple-isomorphic-react-app.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "node",
+    "isomorphic"
+  ],
+  "author": "Huanhuan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jchappypig/simple-isomorphic-react-app/issues"
+  },
+  "homepage": "https://github.com/jchappypig/simple-isomorphic-react-app#readme"
+}
